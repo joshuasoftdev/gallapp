@@ -1,4 +1,5 @@
 import "~/styles/globals.css";
+import { SparklesCore } from "~/components/ui/sparkles";
 
 import { Inter } from "next/font/google";
 
